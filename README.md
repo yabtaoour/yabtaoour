@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/yabtaour?darkmode=false)](https://github.com/JaeSeoKim/badge42)
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/yabtaour?darkmode=true&cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/yabtaour?darkmode=false)](https://github.com/JaeSeoKim/badge42) [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/yabtaour?darkmode=true&cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
