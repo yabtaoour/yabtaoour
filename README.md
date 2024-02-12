@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 [![yabtaour's 42 stats](https://badge.mediaplus.ma/binary/yabtaour)](https://github.com/oakoudad/badge42)
 [![yabtaour's GitHub stats](https://github-readme-stats.vercel.app/api?username=yabtaour)](https://github.com/yabtaour/github-readme-stats)
-[![yabtaour's GitHub stats](https://myreadme.vercel.app/api/embed/yabtaour?panels=toprepositories)
+[![yabtaour's GitHub stats](https://myreadme.vercel.app/api/embed/yabtaour?panels=toprepositories&panels=userstatistics)
 <!--(https://myreadme.vercel.app/api/embed/yabtaour)-->
 
