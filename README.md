@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 [![yabtaour's 42 stats](https://badge.mediaplus.ma/binary/yabtaour)](https://github.com/oakoudad/badge42)
 
-https://myreadme.vercel.app/api/embed/yabtaour
